@@ -18,7 +18,7 @@ I possess enthusiasm, self-motivation, reliability, responsibility, and a strong
 
 <p align="center">
   <a href="https://github.com/IIskel">
-    <img src="https://github.com/IIskel/Python_repo/blob/main/web_hi_res_512.png" alt="Iskel Hordofa" /></a>
+    <img src="https://github.com/IIskel/IIskel/blob/main/icon/web_hi_res_512.png" alt="Iskel Hordofa" /></a>
 </p>
 
 <p align="center">
