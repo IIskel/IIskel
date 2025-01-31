@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+I possess enthusiasm, self-motivation, reliability, responsibility, and a strong work ethic. I excel as a mature team player and demonstrate adaptability in challenging situations. I am good at collaborating within a team and taking initiative when necessary. Additionally, I thrive under pressure and consistently meet strict deadlines.
 
 <p align="center">
   <a href="https://github.com/IIskel">
