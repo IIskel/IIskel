@@ -21,9 +21,9 @@ Here are some ideas to get you started:
 </p>
 
 <p align="center">
-  <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
-  <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&center=true&random=true&width=435&lines=SAS+Developer;Python+Developer;Start+your+day+with+coffee!+)](https://git.io/typing-svg)" /></a>
+  <!-- Typing SVG by Iskel - https://github.com/IIskel/readme-typing-svg -->
+  <a href="https://github.com/IIskel/readme-typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&center=true&random=true&width=435&lines=SAS+Developer;Python+Developer;Start+your+day+with+coffee!+)" /></a>
 </p>
 
 <!-- Social icons section -->
