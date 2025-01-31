@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 <p align="center">
   <a href="https://github.com/IIskel">
-    <img src="https://identicons.github.com/jasonlong.png" alt="Iskel Hordofa" /></a>
+    <img src="https://github.com/IIskel/Python_repo/blob/main/web_hi_res_512.png" alt="Iskel Hordofa" /></a>
 </p>
 
 <p align="center">
