@@ -17,13 +17,13 @@ Here are some ideas to get you started:
 
 <p align="center">
   <a href="https://github.com/IIskel">
-    <img src="https://user-images.githubusercontent.com/20955511/199138068-0a7b7b75-a024-4f00-803f-30a19c5d1b2d.png" alt="Iskel Hordofa" /></a>
+    <img src="https://identicons.github.com/jasonlong.png" alt="Iskel Hordofa" /></a>
 </p>
 
 <p align="center">
   <!-- Typing SVG by Iskel - https://github.com/IIskel/readme-typing-svg -->
   <a href="https://github.com/IIskel/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&center=true&random=true&width=435&lines=SAS+Developer;Python+Developer;Start+your+day+with+coffee!+)" /></a>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&center=true&random=true&width=435&lines=SAS+Developer;Python+Developer;Start+your+day+with+coffee!" /></a>
 </p>
 
 <!-- Social icons section -->
