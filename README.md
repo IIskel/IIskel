@@ -16,11 +16,6 @@ Here are some ideas to get you started:
 -->
 I possess enthusiasm, self-motivation, reliability, responsibility, and a strong work ethic. I excel as a mature team player and demonstrate adaptability in challenging situations. I am good at collaborating within a team and taking initiative when necessary. Additionally, I thrive under pressure and consistently meet strict deadlines.
 
-### 📊 Stats
-
-![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=IIskel&show_icons=true&theme=gruvbox)
-
-<!-- ![GitHub Streak](https://streak-stats.demolab.com?user=IIskel&theme=gruvbox&border_radius=4.5) -->
 
 <p align="center">
   <a href="https://github.com/IIskel">
@@ -41,6 +36,11 @@ I possess enthusiasm, self-motivation, reliability, responsibility, and a strong
   <a href="http://eyl327.mywebcommunity.org/promos/"><img width="32px" alt="Free Stuff" title="Free gifts for you" src="https://i.imgur.com/0uVwkoZ.png"/></a> -->
 </p>
 
+### 📊 Stats
+
+![Iskel's GitHub stats](https://github-readme-stats.vercel.app/api?username=IIskel&show_icons=true&theme=gruvbox)
+
+<!-- ![GitHub Streak](https://streak-stats.demolab.com?user=IIskel&theme=gruvbox&border_radius=4.5) -->
 ### 🧰 Languages and Tools
 
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
