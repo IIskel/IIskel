@@ -29,7 +29,7 @@ I possess enthusiasm, self-motivation, reliability, responsibility, and a strong
 </p>
 
 <!-- Social icons section -->
-<p align="center">
+<p align="left">
   <a href="https://www.linkedin.com/in/iskel-fikiru-hordofa-17632a179/"><img width="120px" alt="LinkedIn" title="LinkedIn" src="https://cdn-icons-png.flaticon.com/256/8409/8409141.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
 <!--   &#8287;&#8287;&#8287;&#8287;&#8287;
