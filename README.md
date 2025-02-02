@@ -38,7 +38,7 @@ I possess enthusiasm, self-motivation, reliability, responsibility, and a strong
 
 ### 📊 Stats
 
-![Iskel's GitHub stats](https://github-readme-stats.vercel.app/api?username=IIskel&show_icons=true&theme=gruvbox) &emsp; <a href="https://www.linkedin.com/in/iskel-fikiru-hordofa-17632a179/"><img width="120px" alt="LinkedIn" title="LinkedIn" src="https://cdn-icons-png.flaticon.com/256/8409/8409141.png"/></a>
+![Iskel's GitHub stats](https://github-readme-stats.vercel.app/api?username=IIskel&show_icons=true&theme=gruvbox) &emsp; &emsp; &emsp; <a href="https://www.linkedin.com/in/iskel-fikiru-hordofa-17632a179/"><img width="120px" alt="LinkedIn" title="LinkedIn" src="https://cdn-icons-png.flaticon.com/256/8409/8409141.png"/></a>
 
 <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=IIskel&theme=gruvbox&border_radius=4.5) -->
 ### 🧰 Languages and Tools
