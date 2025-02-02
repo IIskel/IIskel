@@ -18,8 +18,8 @@ I possess enthusiasm, self-motivation, reliability, responsibility, and a strong
 
 <h2>📊 Estatísticas</h2>
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=strongreen&count_private=true&show_icons=true&theme=graywhite&icon_color=268bd2&title_color=268bd2" alt="Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=strongreen&layout=compact&theme=graywhite&title_color=268bd2" alt="Linguagens Mais Usadas" />
+  <img src="https://github.com/IIskel/api?username=strongreen&count_private=true&show_icons=true&theme=graywhite&icon_color=268bd2&title_color=268bd2" alt="Stats" />
+  <img src="https://github.com/IIskel/api/top-langs/?username=strongreen&layout=compact&theme=graywhite&title_color=268bd2" alt="Linguagens Mais Usadas" />
 </p>
 
 <p align="center">
