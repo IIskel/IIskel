@@ -16,6 +16,12 @@ Here are some ideas to get you started:
 -->
 I possess enthusiasm, self-motivation, reliability, responsibility, and a strong work ethic. I excel as a mature team player and demonstrate adaptability in challenging situations. I am good at collaborating within a team and taking initiative when necessary. Additionally, I thrive under pressure and consistently meet strict deadlines.
 
+<h2>📊 Estatísticas</h2>
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=strongreen&count_private=true&show_icons=true&theme=graywhite&icon_color=268bd2&title_color=268bd2" alt="Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=strongreen&layout=compact&theme=graywhite&title_color=268bd2" alt="Linguagens Mais Usadas" />
+</p>
+
 <p align="center">
   <a href="https://github.com/IIskel">
     <img src="https://github.com/IIskel/IIskel/blob/main/icon/web_hi_res_512.png" alt="Iskel Hordofa" /></a>
