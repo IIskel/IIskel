@@ -40,7 +40,7 @@ I possess enthusiasm, self-motivation, reliability, responsibility, and a strong
 <img align="left" alt="SAS" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/1/10/SAS_logo_horiz.svg" />
 <img align="left" alt="SQL" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/d/d7/Sql_data_base_with_logo.svg" />
 <img align="left" alt="Docker" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Docker_%28container_engine%29_logo.svg" />
-<img align="left" alt="Kubernetes" width="30px" style="padding-right:10px;" src="https://github.com/IIskel/IIskel/blob/main/icon/kubernetes_logo_icon_168359.svg" />
+<img align="left" alt="Kubernetes" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/3/39/Kubernetes_logo_without_workmark.svg" />
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
 <img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
