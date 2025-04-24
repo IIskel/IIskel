@@ -38,7 +38,7 @@ I possess enthusiasm, self-motivation, reliability, responsibility, and a strong
 
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
 <img align="left" alt="SAS" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/1/10/SAS_logo_horiz.svg" />
-<img align="left" alt="SQL" width="30px" style="padding-right:10px;" src="https://github.com/IIskel/IIskel/blob/main/icon/file_type_sql_icon_130152.svg" />
+<img align="left" alt="SQL" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/d/d7/Sql_data_base_with_logo.svg" />
 <img align="left" alt="Docker" width="30px" style="padding-right:10px;" src="https://github.com/IIskel/IIskel/blob/main/icon/docker_plain_wordmark_logo_icon_146555.svg" />
 <img align="left" alt="Kubernetes" width="30px" style="padding-right:10px;" src="https://github.com/IIskel/IIskel/blob/main/icon/kubernetes_logo_icon_168359.svg" />
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
