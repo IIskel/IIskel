@@ -41,42 +41,22 @@ I possess enthusiasm, self-motivation, reliability, responsibility, and a strong
 
 <div align="center">
 
-  <style>
-    @keyframes fadeIn {
-      from { opacity: 0; transform: translateY(10px); }
-      to { opacity: 1; transform: translateY(0); }
-    }
-    .fade {
-      animation: fadeIn 1.5s ease-in-out;
-    }
-  </style>
-
   <!-- GitHub Top Languages -->
-  <a href="https://github.com/IIskel">
-    <img class="fade"
-         src="https://github-readme-stats.vercel.app/api/top-langs/?username=IIskel&layout=compact&theme=tokyonight&hide_border=true&border_radius=12"
-         alt="Top Languages"
-         height="180"/>
+  <a href="https://github.com/IIskel" style="vertical-align: middle;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IIskel&layout=compact&theme=tokyonight&hide_border=true&border_radius=12"
+         alt="Top Languages" height="180"/>
   </a>
 
-  <br/><br/>
-
-  <!-- Divider -->
-  <hr width="40%" style="border: 0; height: 1px; background: linear-gradient(to right, transparent, #555, transparent);"/>
-
-  <br/>
+  <!-- Space between -->
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
   <!-- LinkedIn Button -->
-  <a href="https://www.linkedin.com/in/iskel-fikiru-hordofa-17632a179/" target="_blank">
-    <img class="fade"
-         src="https://img.shields.io/badge/LinkedIn-Iskel%20Fikiru%20Hordofa-blue?style=for-the-badge&logo=linkedin"
-         alt="LinkedIn Badge"/>
+  <a href="https://www.linkedin.com/in/iskel-fikiru-hordofa-17632a179/" target="_blank" style="vertical-align: middle;">
+    <img src="https://img.shields.io/badge/LinkedIn-Iskel%20Fikiru%20Hordofa-blue?style=for-the-badge&logo=linkedin"
+         alt="LinkedIn Badge" height="40"/>
   </a>
 
 </div>
-
-
-
 
 
 
