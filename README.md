@@ -37,7 +37,7 @@ I possess enthusiasm, self-motivation, reliability, responsibility, and a strong
 <a href="https://github.com/IIskel">
   <img src="https://github-readme-stats.vercel.app/api?username=IIskel&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12&count_private=true" alt="Iskel's GitHub stats" height="180"/>
 </a>
-<!-- Streak Stats -->
+
 <a href="https://github.com/IIskel">
   <img src="https://streak-stats.demolab.com?user=IIskel&theme=tokyonight&hide_border=true&border_radius=12" alt="GitHub Streak" height="180"/>
 </a>
