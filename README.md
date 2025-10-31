@@ -45,14 +45,12 @@ I possess enthusiasm, self-motivation, reliability, responsibility, and a strong
 <a href="https://github.com/IIskel">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IIskel&layout=compact&theme=tokyonight&hide_border=true&border_radius=12" alt="Top Languages" height="180"/>
 </a>
-## 🌐 Connect with Me
+ <a href="https://www.linkedin.com/in/iskel-fikiru-hordofa-17632a179/" target="_blank">
+   <img src="https://cdn-icons-png.flaticon.com/256/8409/8409141.png" alt="LinkedIn" title="LinkedIn" width="100px" style="border-radius: 12px;"/><br/>
+   <b>LinkedIn</b>
+</a>
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/iskel-fikiru-hordofa-17632a179/" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/256/8409/8409141.png" alt="LinkedIn" title="LinkedIn" width="100px" style="border-radius: 12px;"/><br/>
-    <b>LinkedIn</b>
-  </a>
-</div>
+
 
 
 <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=IIskel&theme=gruvbox&border_radius=4.5) -->
