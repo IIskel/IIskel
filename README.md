@@ -39,13 +39,24 @@ I possess enthusiasm, self-motivation, reliability, responsibility, and a strong
   <img src="https://streak-stats.demolab.com?user=IIskel&theme=tokyonight&hide_border=true&border_radius=12" alt="GitHub Streak" height="180"/>
 </a>
 
-<a href="https://github.com/IIskel">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IIskel&layout=compact&theme=tokyonight&hide_border=true&border_radius=12" alt="Top Languages" height="180"/>
-</a>
+<div align="center">
 
-<a href="https://www.linkedin.com/in/iskel-fikiru-hordofa-17632a179/" target="_blank">
-   <img src="https://img.shields.io/badge/LinkedIn-Iskel%20Fikiru%20Hordofa-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn Badge"/>
-</a>
+  <!-- GitHub Top Languages -->
+  <a href="https://github.com/IIskel">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IIskel&layout=compact&theme=tokyonight&hide_border=true&border_radius=12" 
+         alt="Top Languages" height="180"/>
+  </a>
+
+  <!-- Spacer -->
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+  <!-- LinkedIn Button (slightly lowered) -->
+  <a href="https://www.linkedin.com/in/iskel-fikiru-hordofa-17632a179/" target="_blank" style="vertical-align: middle; position: relative; top: 30px;">
+    <img src="https://img.shields.io/badge/LinkedIn-Iskel%20Fikiru%20Hordofa-blue?style=for-the-badge&logo=linkedin" 
+         alt="LinkedIn Badge"/>
+  </a>
+
+</div>
 
 
 
