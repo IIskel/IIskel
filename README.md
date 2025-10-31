@@ -42,6 +42,9 @@ I possess enthusiasm, self-motivation, reliability, responsibility, and a strong
   <img src="https://streak-stats.demolab.com?user=IIskel&theme=tokyonight&hide_border=true&border_radius=12" alt="GitHub Streak" height="180"/>
 </a>
 
+<a href="https://github.com/IIskel">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IIskel&layout=compact&theme=tokyonight&hide_border=true&border_radius=12" alt="Top Languages" height="180"/>
+</a>
 <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=IIskel&theme=gruvbox&border_radius=4.5) -->
 ### 🧰 Languages and Tools
 
